@@ -4,8 +4,7 @@
 
 ViT-B SAM model:https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
 
-UI框架是https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit;
-<<<<<<< HEAD
+UI框架是https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 =======
 标注、训练、预测：
 ![屏幕截图 2025-05-21 231146](https://github.com/user-attachments/assets/df3ba4ea-9cd3-4d5d-a9df-a6d099d03bb7)
