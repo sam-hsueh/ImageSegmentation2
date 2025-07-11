@@ -1,6 +1,8 @@
 这是一个标注、训练、实例分割于一体的方案;
 
-训练和预测部分是按https://github.com/IntptrMax/YoloSharp的代码添加了UI，以及https://github.com/IntptrMax/SAMSharp
+训练和预测部分是按https://github.com/IntptrMax/YoloSharp的代码添加了UI
+
+采用了https://github.com/IntptrMax/SAMSharp
 
 添加SAM自动分割功能， ViT-B SAM model:https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
 
