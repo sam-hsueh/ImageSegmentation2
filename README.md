@@ -1,7 +1,9 @@
 这是一个标注、训练、实例分割于一体的方案;
 
 训练和预测部分是按https://github.com/IntptrMax/YoloSharp 的代码添加了UI;
-ViT-B SAM model.:https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
+
+ViT-B SAM model:https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
+
 UI框架是https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit;
 <<<<<<< HEAD
 =======
